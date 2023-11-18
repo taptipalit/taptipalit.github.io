@@ -1,5 +1,5 @@
 ---
-title: "Variant GEP"
+title: "SVF Details: Variant GEP Constraint Edge"
 layout: post
 ---
 

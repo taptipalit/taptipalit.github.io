@@ -1,5 +1,5 @@
 ---
-title: "Andersen Wave Diff"
+title: "Andersen Wave Difference Algorithm"
 
 layout: post
 date: "2020-09-22"

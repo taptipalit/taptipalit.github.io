@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I'm serving on [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Program Committee.

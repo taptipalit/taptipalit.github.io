@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-04-11
 inline: true
 related_posts: false
 ---
+I'm serving on the [DIMVA 2023](https://www.dimva.org/dimva2024/) Program Committee.
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
