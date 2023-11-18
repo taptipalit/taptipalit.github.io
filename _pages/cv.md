@@ -1,11 +1,10 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+layout: post
+published: true
+title: "CV"
+date: "2018-02-15"
 ---
+layout: post
+published: true
+
+My [Resume](https://tpalitblog.files.wordpress.com/2022/12/cv-compiler-systems.pdf)
