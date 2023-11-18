@@ -41,8 +41,7 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Install Jupyter
         run:
-          sudo apt-get update
-          sudo apt-get install -y jupyter
+          sudo apt-get update && sudo apt-get install -y jupyter
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
