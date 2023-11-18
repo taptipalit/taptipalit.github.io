@@ -14,7 +14,7 @@ r = q;
 p = r;
 
   
-This represents a cycle, from p → q → r → p. This is a very simple example, and these cycles can happen across functions, and complex situations, so it’s useful to be able to eliminate these cycles.  
+This represents a cycle, from p → q → r → p. This is a very simple example, and these cycles can happen across functions, and complex situations, so it’s useful to be able to eliminate these cycles.
   
 The key point about cycles is that all nodes in a cycle share the same points-to set. So, the analysis can be optimized by replacing all nodes in a cycle by a single node. 
 
