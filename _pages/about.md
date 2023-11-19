@@ -25,7 +25,7 @@ Fonseca](https://www.cs.purdue.edu/homes/pfonseca/).
 My research interests lie in the intersection of software security, systems, and program analysis.
 
 Before joining Purdue, I completed my Ph.D. at Stony Brook University, where I
-conducted research on defending sensitive user data, under the guidance of
+conducted research on protecting sensitive user data against data leakage, under the guidance of
 [Dr. Michalis Polychronakis](https://www3.cs.stonybrook.edu/~mikepo/).
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=lJqQKlQAAAAJ).
