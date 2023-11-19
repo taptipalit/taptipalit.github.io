@@ -19,8 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Postdoctoral Researcher at Purdue University at the Reliable and Secure Systems Lab.
+I'm a Postdoctoral Researcher at Purdue University at the Reliable and Secure Systems Lab, where
+I work under the guidance of [Dr. Pedro
+Fonseca](https://www.cs.purdue.edu/homes/pfonseca/).
 My research interests lie in the intersection of software security, systems, and program analysis.
+
+Before joining Purdue, I completed my Ph.D. at Stony Brook University, where I
+conducted research on defending sensitive user data, under the guidance of
+[Dr. Michalis Polychronakis](https://www3.cs.stonybrook.edu/~mikepo/).
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=lJqQKlQAAAAJ).
 
