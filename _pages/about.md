@@ -29,4 +29,5 @@ conducted research on protecting sensitive user data against data leakage, under
 [Dr. Michalis Polychronakis](https://www3.cs.stonybrook.edu/~mikepo/).
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=lJqQKlQAAAAJ).
+My CV is [here](assets/pdf/CV_Tapti.pdf).
 
