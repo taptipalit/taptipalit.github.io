@@ -22,14 +22,15 @@ scholar:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Postdoctoral Researcher at Purdue University at the Reliable and Secure Systems Lab, where
+I'm a CRA Computing Innovation Fellow at Purdue University at the Reliable and Secure Systems Lab, where
 I work under the guidance of [Dr. Pedro
 Fonseca](https://www.cs.purdue.edu/homes/pfonseca/).
-My research interests lie in the intersection of software security, systems, and program analysis.
 
 Before joining Purdue, I completed my Ph.D. at Stony Brook University, where I
 conducted research on protecting sensitive user data against data leakage, under the guidance of
 [Dr. Michalis Polychronakis](https://www3.cs.stonybrook.edu/~mikepo/).
+
+My research interests lie in the intersection of software security, systems, and program analysis.
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=lJqQKlQAAAAJ).
 My CV is [here](assets/pdf/CV_Tapti.pdf).
