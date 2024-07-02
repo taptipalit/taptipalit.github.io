@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3154R Lawson Computer Science Building</p>
-    <p>Purdue University</p>
-    <p>West Lafayette, IN 47907</p>
+    <p>Computer Science Department</p>
+    <p>UC Davis</p>
+    <p>Davis, CA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -22,15 +22,15 @@ scholar:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a CRA Computing Innovation Fellow at Purdue University at the Reliable and Secure Systems Lab, where
-I work under the guidance of [Dr. Pedro
-Fonseca](https://www.cs.purdue.edu/homes/pfonseca/).
+I'm an Assistant Professor in the Computer Science Department at the University of California, Davis. 
+My research aims to improve software security and system performance by leveraging novel insights in the
+software security, program analysis, and systems domains.
 
-Before joining Purdue, I completed my Ph.D. at Stony Brook University, where I
-conducted research on protecting sensitive user data against data leakage, under the guidance of
+Prior to joining UC Davis, I was a CRA Computing Innovation Fellow at Purdue University where
+I worked with [Dr. Pedro
+Fonseca](https://www.cs.purdue.edu/homes/pfonseca/) in the Reliable and Secure Systems Lab.
+Before that, I was a Ph.D student at Stony Brook University at the HexLab, led by 
 [Dr. Michalis Polychronakis](https://www3.cs.stonybrook.edu/~mikepo/).
-
-My research interests lie in the intersection of software security, systems, and program analysis.
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=lJqQKlQAAAAJ).
 My CV is [here](assets/pdf/CV_Tapti.pdf).
