@@ -33,5 +33,4 @@ Before that, I was a Ph.D student at Stony Brook University at the HexLab, led b
 [Dr. Michalis Polychronakis](https://www3.cs.stonybrook.edu/~mikepo/).
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=lJqQKlQAAAAJ).
-# My CV is [here](assets/pdf/CV_Tapti.pdf).
 
