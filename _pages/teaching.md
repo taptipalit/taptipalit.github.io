@@ -12,6 +12,6 @@ I am teaching the following courses
 - [Link](https://github.com/davsec-teaching/ECS160-Winter2025)
 
 2. ECS 289: Programming Languages and Compilers
-- TBD
+- [Link](https://github.com/davsec-teaching/ECS289C-Spring2025)
 
 
