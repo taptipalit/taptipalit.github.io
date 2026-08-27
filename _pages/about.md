@@ -34,3 +34,5 @@ Before that, I was a Ph.D student at Stony Brook University at the HexLab, led b
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=lJqQKlQAAAAJ).
 My CV is [here](assets/pdf/CV_Tapti.pdf).
+
+**NOTE**: Emails claiming to be from me and offering research assistantships are **scams**. Do not share personal, financial, or identifying information.
